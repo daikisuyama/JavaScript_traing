@@ -1,1 +1,5 @@
-# JavaScript_traing
+# JavaScript_training
+
+JavaScriptの勉強用のリポジトリです。
+
+AtCoderの問題を用いてJavaScriptの文法に慣れることが目的です。
